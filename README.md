@@ -1,2 +1,2 @@
-# ty-paikkahakemus
+# työpaikkahakemus
 Työhakemus
